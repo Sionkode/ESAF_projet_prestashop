@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp2\htdocs\prestashop\themes\probusiness\modules\productcomments\productcomments_reviews.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="b782944d163791379988170f3fe449e1">
+        <source><![CDATA[printf('%s Review(s)',$_smarty_tpl->tpl_vars['averageTotal']->value]]></source>
+        <target><![CDATA[printf('%s Review(s)',$_smarty_tpl->tpl_vars['averageTotal']->value]]></target>
+        <note>Line: 31</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

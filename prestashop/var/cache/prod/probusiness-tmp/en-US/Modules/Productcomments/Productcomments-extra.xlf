@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp2\htdocs\prestashop\themes\probusiness\modules\productcomments\productcomments-extra.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="7c3b0e9898b88deee7ea75aafd2e37e2">
+        <source>Average grade</source>
+        <target>Average grade</target>
+        <note>Line: 36</note>
+      </trans-unit>
+      <trans-unit id="a71a0229e164fecdcde3c4e0f40473fa">
+        <source>Read user reviews</source>
+        <target>Read user reviews</target>
+        <note>Line: 51</note>
+      </trans-unit>
+      <trans-unit id="7966126831926ad29c528b239d69f855">
+        <source>Write your review</source>
+        <target>Write your review</target>
+        <note>Line: 54</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp2\htdocs\prestashop\themes\probusiness\modules\ybc_productimagehover\views\templates\hook\admin-config.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="042907afc77a315effee2e6533f5fc96">
+        <source>Transition effect</source>
+        <target>Transition effect</target>
+        <note>Line: 29</note>
+      </trans-unit>
+      <trans-unit id="f64770d707422626f222627170ba7432">
+        <source>Apply transition effect on those pages</source>
+        <target>Apply transition effect on those pages</target>
+        <note>Line: 41</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

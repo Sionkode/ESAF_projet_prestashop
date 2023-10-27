@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp2\htdocs\prestashop\themes\probusiness\modules\ybc_widget\views\templates\hook\widgets.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="1c76cbfe21c6f44c1d1e59d54f3e4420">
+        <source>Company</source>
+        <target>Company</target>
+        <note>Line: 131</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

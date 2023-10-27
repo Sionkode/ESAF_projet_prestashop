@@ -1,0 +1,5 @@
+RAPPORT PRESTASHOP :
+
+Module installer : Theme Customization
+
+Installation : Pour installer le module Theme Customization je me suis rendu dabord sur le site officiel de prestashop   ensuite j'ai telecharger Theme Customization et enfin j'ai exporter le module Theme Customization directement dans mon projet prestashop.

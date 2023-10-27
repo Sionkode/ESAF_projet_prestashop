@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp2\htdocs\prestashop\themes\probusiness\modules\ps_imageslider\views\templates\hook\slider.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="dd1f775e443ff3b9a89270713580a51b">
+        <source>Previous</source>
+        <target>Previous</target>
+        <note>Line: 45</note>
+      </trans-unit>
+      <trans-unit id="10ac3d04253ef7e1ddc73e6091c0cd55">
+        <source>Next</source>
+        <target>Next</target>
+        <note>Line: 51</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="C:\xampp2\htdocs\prestashop\themes\probusiness\templates\cms\stores.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="34c869c542dee932ef8cd96d2f91cae6">
+        <source>Our stores</source>
+        <target>Our stores</target>
+        <note>Line: 24</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

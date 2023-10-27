@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp2\htdocs\prestashop\themes\probusiness\modules\ybc_themeconfig\views\templates\hook\blocksocial.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="f431e17ea0081a3c9e51fc240221ee21">
+        <source>Social</source>
+        <target>Social</target>
+        <note>Line: 22</note>
+      </trans-unit>
+      <trans-unit id="d85544fce402c7a2a96a48078edaf203">
+        <source>Facebook</source>
+        <target>Facebook</target>
+        <note>Line: 26</note>
+      </trans-unit>
+      <trans-unit id="2491bc9c7d8731e1ae33124093bc7026">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <note>Line: 35</note>
+      </trans-unit>
+      <trans-unit id="dda8dc38128a8c843ba9f496d6ee7186">
+        <source>Google Plus</source>
+        <target>Google Plus</target>
+        <note>Line: 42</note>
+      </trans-unit>
+      <trans-unit id="44e2308cdc51a0a1a5350ba3937e0b5e">
+        <source>Linkedin</source>
+        <target>Linkedin</target>
+        <note>Line: 49</note>
+      </trans-unit>
+      <trans-unit id="bf1981220040a8ac147698c85d55334f">
+        <source>RSS</source>
+        <target>RSS</target>
+        <note>Line: 56</note>
+      </trans-unit>
+      <trans-unit id="970cfba66b8380fb97b742e4571356c6">
+        <source>Youtube</source>
+        <target>Youtube</target>
+        <note>Line: 63</note>
+      </trans-unit>
+      <trans-unit id="86709a608bd914b28221164e6680ebf7">
+        <source>Pinterest</source>
+        <target>Pinterest</target>
+        <note>Line: 71</note>
+      </trans-unit>
+      <trans-unit id="15db599e0119be476d71bfc1fda72217">
+        <source>Vimeo</source>
+        <target>Vimeo</target>
+        <note>Line: 78</note>
+      </trans-unit>
+      <trans-unit id="55f015a0c5605702f913536afe70cfb0">
+        <source>Instagram</source>
+        <target>Instagram</target>
+        <note>Line: 85</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

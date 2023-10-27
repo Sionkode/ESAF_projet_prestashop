@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="C:\xampp2\htdocs\prestashop\themes\probusiness\modules\ets_multilayerslider\views\templates\hook\multilayerslider.tpl" source-language="en-US" target-language="en-US" datatype="plaintext">
+    <body>
+      <trans-unit id="14230d11143a03f4330c6433d5032a9d">
+        <source>Prev</source>
+        <target>Prev</target>
+        <note>Line: 107</note>
+      </trans-unit>
+      <trans-unit id="10ac3d04253ef7e1ddc73e6091c0cd55">
+        <source>Next</source>
+        <target>Next</target>
+        <note>Line: 108</note>
+      </trans-unit>
+      <trans-unit id="03cda4f753d706a82adc23babebeb77b">
+        <source>No active slides available</source>
+        <target>No active slides available</target>
+        <note>Line: 125</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
